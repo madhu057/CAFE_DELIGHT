@@ -12,7 +12,7 @@
 }
 #status.error {
   background-color: rgb(250, 129, 92);
-  color: white;
+  color: blue;
   animation: status 4s ease forwards;
 }
 @keyframes status {
